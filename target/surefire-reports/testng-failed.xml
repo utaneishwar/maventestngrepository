@@ -10,8 +10,10 @@
         <methods>
           <include name="launch"/>
           <include name="AddProduct"/>
+          <include name="pop"/>
           <include name="productsearchimage"/>
           <include name="Constructor"/>
+          <include name="pop0"/>
         </methods>
       </class> <!-- test.AddTocartTest -->
     </classes>

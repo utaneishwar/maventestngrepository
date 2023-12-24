@@ -10,6 +10,7 @@
         <methods>
           <include name="launch"/>
           <include name="AddProduct"/>
+          <include name="pop"/>
           <include name="productsearchimage"/>
           <include name="Constructor"/>
         </methods>
